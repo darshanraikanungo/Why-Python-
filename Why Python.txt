@@ -1,0 +1,11 @@
+Python is a high level programming language.Founded in 1991 by Guido Van Rossum. Object oriented functional programming. It has many features like interactive, interpreted, modular, dynamic, object oriented, high level. Software application---gaming, web framework and application, language development, graphic design application. 
+
+provide large standard libraries that include the areas like string operation, internet, web service tool, operating system interface and protocols. 
+
+---python program take much less time to develop.
+---programmer time to develop code is more expensive than a computer time to run that code.
+---six data types: numbers, string, tuples, list, sets,dictionaries.
+---web development, game development, computer vision(face detection, color detection using opencv), machine learning, gui development, robotics, data analysis.
+
+
+
